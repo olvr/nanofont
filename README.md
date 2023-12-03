@@ -11,11 +11,11 @@ Some example output using nanoFont with various font files:
 ## Font files
 The font files are in a binary format and support the full ASCII set of characters.
 
-There are two types of font file.
+**There are two types of font file.**
 
-The first type allows for characters that each fit into a grid up to 8x8 pixels.
+**The first type** allows for characters that each fit into a grid up to 8x8 pixels.
 
-The default nanofont.nf file is this type.
+The default nanofont.nf file is of this type.
 
 In addition there are some more fonts of this type included in the fonts folder:
 
@@ -26,7 +26,7 @@ In addition there are some more fonts of this type included in the fonts folder:
 | neutrino.nf          | [Jeti](https://www.fontget.com/font/neutrino)       |
 | planetary-contact.nf | [Jeti](https://www.fontget.com/font/planetary-contact/)       |
 
-The second type can accommodate characters up to 16x16 pixels but requires the extended version of the renderer.
+**The second type** can accommodate characters up to 16x16 pixels but requires the extended version of the renderer.
 
 The following included fonts are of this type:
 
